@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "about me, I don’t know what to say."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to my website quarto",
+    "section": "",
+    "text": "Hi, my name is gloria. I am a student at university of toronto, in major of computer science and statistics. I am in third year.\nThis is a Quarto website.\nHope the website works."
+  }
+]
